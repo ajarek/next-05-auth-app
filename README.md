@@ -13,6 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
+added .env :
+GITHUB_ID=""
+GITHUB_SECRET=""
+NEXTAUTH_URL='http://localhost:3000'
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
