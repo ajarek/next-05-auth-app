@@ -23,19 +23,19 @@ const Navbar = () => {
       <div>
         {session.status === 'authenticated' ? (
           <>
-          <button
-            className={'text-red-200 text-bold text-2xl mr-2'}
-            onClick={()=>signOut()}
-          >
-            Sign Out
-          </button>
-          <Image
-          src={session.data.user.image}
-          width={40}
-          height={40}
-          alt='logo'
-          className='border-2 border-rose-200 rounded-full p-1 '
-        />
+            <button
+              className={'text-red-200 text-bold text-2xl mr-2'}
+              onClick={() => signOut()}
+            >
+              Sign Out
+            </button>
+            <Image
+              src={session.data.user.image}
+              width={40}
+              height={40}
+              alt='logo'
+              className='border-2 border-rose-200 rounded-full p-1 '
+            />
           </>
         ) : (
           <button
