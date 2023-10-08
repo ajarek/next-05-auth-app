@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+<img width="150" alt="Zrzut ekranu 2023-10-08 210522" src="https://github.com/ajarek/next-05-auth-app/assets/61388692/f15ed563-1769-4075-8b10-0b3c48765104">
+<img width="150" alt="Zrzut ekranu 2023-10-08 210641" src="https://github.com/ajarek/next-05-auth-app/assets/61388692/534858eb-22eb-4139-8213-566a713d064d">
+
+
 ## Getting Started
 
 First, run the development server:
